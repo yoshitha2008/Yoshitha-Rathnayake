@@ -1,2 +1,2 @@
 # Yoshitha-Rathnayake
-This Is My Personal portfolio.
+Hi, I am Yoshitha Rathnayake. This Is My Personal portfolio.
