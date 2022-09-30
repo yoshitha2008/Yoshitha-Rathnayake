@@ -1,4 +1,4 @@
-# <b><i>Yoshitha Rathnayake</i></b>
+# <div align="center"><b><i>Yoshitha Rathnayake</i></b></div>
 # <img src="Yoshitha Rathnayake 2.png" height="250px">
 <a href="https://github.com/yoshitha2008">@yoshitha2008<a>
 
